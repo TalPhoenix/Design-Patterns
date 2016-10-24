@@ -1,0 +1,63 @@
+c:\users\taloh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161022 Tori Chip Backup\Cheshire Project Folder\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161022 Tori Chip Backup\Cheshire Project Folder\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161022 Tori Chip Backup\Cheshire Project Folder\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161022 Tori Chip Backup\Cheshire Project Folder\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161022 Tori Chip Backup\Cheshire Project Folder\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161022 Tori Chip Backup\Cheshire Project Folder\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161022 Tori Chip Backup\Cheshire Project Folder\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161022 Tori Chip Backup\Cheshire Project Folder\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161022 Tori Chip Backup\Cheshire Project Folder\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+I:\20161023 WORK FROM HOME PC\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+I:\20161023 WORK FROM HOME PC\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+I:\20161023 WORK FROM HOME PC\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+I:\20161023 WORK FROM HOME PC\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+I:\20161023 WORK FROM HOME PC\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+I:\20161023 WORK FROM HOME PC\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+I:\20161023 WORK FROM HOME PC\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+I:\20161023 WORK FROM HOME PC\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+I:\20161023 WORK FROM HOME PC\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\StrategyPattern_Dad\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\StrategyPattern_Dad\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\StrategyPattern_Dad\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\StrategyPattern_Dad\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\StrategyPattern_Dad\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\StrategyPattern_Dad\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\StrategyPattern_Dad\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\StrategyPattern_Dad\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\StrategyPattern_Dad\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern_NewRevised\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern_NewRevised\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern_NewRevised\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern_NewRevised\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern_NewRevised\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern_NewRevised\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern_NewRevised\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern_NewRevised\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\StrategyPattern_NewRevised\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161024AM1217_StrategyPattern_Final\20161024AM1217_StrategyPattern_Final\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161024AM1217_StrategyPattern_Final\20161024AM1217_StrategyPattern_Final\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161024AM1217_StrategyPattern_Final\20161024AM1217_StrategyPattern_Final\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161024AM1217_StrategyPattern_Final\20161024AM1217_StrategyPattern_Final\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161024AM1217_StrategyPattern_Final\20161024AM1217_StrategyPattern_Final\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161024AM1217_StrategyPattern_Final\20161024AM1217_StrategyPattern_Final\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161024AM1217_StrategyPattern_Final\20161024AM1217_StrategyPattern_Final\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161024AM1217_StrategyPattern_Final\20161024AM1217_StrategyPattern_Final\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+C:\Users\DLentz\Documents\Visual Studio 2015\Projects\Tori Projects\20161024AM1217_StrategyPattern_Final\20161024AM1217_StrategyPattern_Final\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\20161024AM1217_StrategyPattern_Final_PaddingFix\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\20161024AM1217_StrategyPattern_Final_PaddingFix\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\20161024AM1217_StrategyPattern_Final_PaddingFix\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\20161024AM1217_StrategyPattern_Final_PaddingFix\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\20161024AM1217_StrategyPattern_Final_PaddingFix\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\20161024AM1217_StrategyPattern_Final_PaddingFix\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\20161024AM1217_StrategyPattern_Final_PaddingFix\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\20161024AM1217_StrategyPattern_Final_PaddingFix\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\20161024AM1217_StrategyPattern_Final_PaddingFix\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
