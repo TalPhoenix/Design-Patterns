@@ -1,0 +1,9 @@
+c:\users\tal\documents\visual studio 2015\Projects\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+c:\users\tal\documents\visual studio 2015\Projects\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+c:\users\tal\documents\visual studio 2015\Projects\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+c:\users\tal\documents\visual studio 2015\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+c:\users\tal\documents\visual studio 2015\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.Form1.resources
+c:\users\tal\documents\visual studio 2015\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.Properties.Resources.resources
+c:\users\tal\documents\visual studio 2015\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.GenerateResource.Cache
+c:\users\tal\documents\visual studio 2015\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+c:\users\tal\documents\visual studio 2015\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb
