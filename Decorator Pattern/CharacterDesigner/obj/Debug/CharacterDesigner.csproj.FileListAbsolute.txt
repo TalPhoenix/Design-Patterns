@@ -1,0 +1,18 @@
+c:\users\tal\documents\visual studio 2015\Projects\CharacterDesigner\CharacterDesigner\bin\Debug\CharacterDesigner.exe.config
+c:\users\tal\documents\visual studio 2015\Projects\CharacterDesigner\CharacterDesigner\bin\Debug\CharacterDesigner.exe
+c:\users\tal\documents\visual studio 2015\Projects\CharacterDesigner\CharacterDesigner\bin\Debug\CharacterDesigner.pdb
+c:\users\tal\documents\visual studio 2015\Projects\CharacterDesigner\CharacterDesigner\obj\Debug\CharacterDesigner.csprojResolveAssemblyReference.cache
+c:\users\tal\documents\visual studio 2015\Projects\CharacterDesigner\CharacterDesigner\obj\Debug\CharacterDesigner.CharacterDesignForm.resources
+c:\users\tal\documents\visual studio 2015\Projects\CharacterDesigner\CharacterDesigner\obj\Debug\CharacterDesigner.Properties.Resources.resources
+c:\users\tal\documents\visual studio 2015\Projects\CharacterDesigner\CharacterDesigner\obj\Debug\CharacterDesigner.csproj.GenerateResource.Cache
+c:\users\tal\documents\visual studio 2015\Projects\CharacterDesigner\CharacterDesigner\obj\Debug\CharacterDesigner.exe
+c:\users\tal\documents\visual studio 2015\Projects\CharacterDesigner\CharacterDesigner\obj\Debug\CharacterDesigner.pdb
+C:\Users\taloh\Downloads\CharacterDesigner v2\CharacterDesigner\bin\Debug\CharacterDesigner.exe.config
+C:\Users\taloh\Downloads\CharacterDesigner v2\CharacterDesigner\obj\Debug\CharacterDesigner.exe
+C:\Users\taloh\Downloads\CharacterDesigner v2\CharacterDesigner\obj\Debug\CharacterDesigner.pdb
+C:\Users\taloh\Downloads\CharacterDesigner v2\CharacterDesigner\bin\Debug\CharacterDesigner.exe
+C:\Users\taloh\Downloads\CharacterDesigner v2\CharacterDesigner\bin\Debug\CharacterDesigner.pdb
+C:\Users\taloh\Downloads\CharacterDesigner v2\CharacterDesigner\obj\Debug\CharacterDesigner.csprojResolveAssemblyReference.cache
+C:\Users\taloh\Downloads\CharacterDesigner v2\CharacterDesigner\obj\Debug\CharacterDesigner.CharacterDesignForm.resources
+C:\Users\taloh\Downloads\CharacterDesigner v2\CharacterDesigner\obj\Debug\CharacterDesigner.Properties.Resources.resources
+C:\Users\taloh\Downloads\CharacterDesigner v2\CharacterDesigner\obj\Debug\CharacterDesigner.csproj.GenerateResource.Cache
