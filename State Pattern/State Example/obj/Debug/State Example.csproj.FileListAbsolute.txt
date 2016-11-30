@@ -1,0 +1,28 @@
+c:\users\taloh\documents\visual studio 2015\Projects\State Example\State Example\bin\Debug\State Example.exe.config
+c:\users\taloh\documents\visual studio 2015\Projects\State Example\State Example\bin\Debug\State Example.exe
+c:\users\taloh\documents\visual studio 2015\Projects\State Example\State Example\bin\Debug\State Example.pdb
+c:\users\taloh\documents\visual studio 2015\Projects\State Example\State Example\obj\Debug\State Example.csprojResolveAssemblyReference.cache
+c:\users\taloh\documents\visual studio 2015\Projects\State Example\State Example\obj\Debug\State_Example.Properties.Resources.resources
+c:\users\taloh\documents\visual studio 2015\Projects\State Example\State Example\obj\Debug\State Example.csproj.GenerateResource.Cache
+c:\users\taloh\documents\visual studio 2015\Projects\State Example\State Example\obj\Debug\State Example.exe
+c:\users\taloh\documents\visual studio 2015\Projects\State Example\State Example\obj\Debug\State Example.pdb
+C:\Users\Tal\Desktop\Tori Programs\State Example\State Example\State Example\bin\Debug\State Example.exe.config
+C:\Users\Tal\Desktop\Tori Programs\State Example\State Example\State Example\obj\Debug\State Example.exe
+C:\Users\Tal\Desktop\Tori Programs\State Example\State Example\State Example\obj\Debug\State Example.pdb
+C:\Users\Tal\Desktop\Tori Programs\State Pattern - Student Grade Calculator - Needs alot of work\State Example\bin\Debug\State Example.exe.config
+C:\Users\Tal\Desktop\Tori Programs\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State Example.exe
+C:\Users\Tal\Desktop\Tori Programs\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State Example.pdb
+C:\Users\Tal\Desktop\Tori Programs\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State Example.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Desktop\Tori Programs\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State_Example.Properties.Resources.resources
+C:\Users\Tal\Desktop\Tori Programs\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State Example.csproj.GenerateResource.Cache
+C:\Users\Tal\Desktop\Tori Programs\State Pattern - Student Grade Calculator - Needs alot of work\State Example\bin\Debug\State Example.exe
+C:\Users\Tal\Desktop\Tori Programs\State Pattern - Student Grade Calculator - Needs alot of work\State Example\bin\Debug\State Example.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\State Pattern - Student Grade Calculator - Needs alot of work\State Example\bin\Debug\State Example.exe.config
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State Example.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State Example.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\State Pattern - Student Grade Calculator - Needs alot of work\State Example\bin\Debug\State Example.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\State Pattern - Student Grade Calculator - Needs alot of work\State Example\bin\Debug\State Example.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State Example.csprojResolveAssemblyReference.cache
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State_Example.Form1.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State_Example.Properties.Resources.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\State Pattern - Student Grade Calculator - Needs alot of work\State Example\obj\Debug\State Example.csproj.GenerateResource.Cache
