@@ -1,0 +1,45 @@
+c:\users\taloh\documents\visual studio 2015\Projects\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.exe.config
+c:\users\taloh\documents\visual studio 2015\Projects\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.csprojResolveAssemblyReference.cache
+c:\users\taloh\documents\visual studio 2015\Projects\Observer Pattern\Observer Pattern\obj\Debug\Observer_Pattern.Form1.resources
+c:\users\taloh\documents\visual studio 2015\Projects\Observer Pattern\Observer Pattern\obj\Debug\Observer_Pattern.Properties.Resources.resources
+c:\users\taloh\documents\visual studio 2015\Projects\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.csproj.GenerateResource.Cache
+c:\users\taloh\documents\visual studio 2015\Projects\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.exe
+c:\users\taloh\documents\visual studio 2015\Projects\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.pdb
+c:\users\taloh\documents\visual studio 2015\Projects\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.exe
+c:\users\taloh\documents\visual studio 2015\Projects\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Observer Pattern\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.exe.config
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Observer Pattern\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.exe
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Observer Pattern\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Observer Pattern\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.exe
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Observer Pattern\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Observer Pattern\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Observer Pattern\Observer Pattern\Observer Pattern\obj\Debug\Observer_Pattern.Form1.resources
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Observer Pattern\Observer Pattern\Observer Pattern\obj\Debug\Observer_Pattern.Properties.Resources.resources
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Observer Pattern\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.csproj.GenerateResource.Cache
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - pattern not calling observer code\Observer Pattern\bin\Debug\Observer Pattern.exe.config
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - pattern not calling observer code\Observer Pattern\obj\Debug\Observer Pattern.exe
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - pattern not calling observer code\Observer Pattern\obj\Debug\Observer Pattern.pdb
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - pattern not calling observer code\Observer Pattern\bin\Debug\Observer Pattern.exe
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - pattern not calling observer code\Observer Pattern\bin\Debug\Observer Pattern.pdb
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - pattern not calling observer code\Observer Pattern\obj\Debug\Observer Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - pattern not calling observer code\Observer Pattern\obj\Debug\Observer_Pattern.Form1.resources
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - pattern not calling observer code\Observer Pattern\obj\Debug\Observer_Pattern.Properties.Resources.resources
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - pattern not calling observer code\Observer Pattern\obj\Debug\Observer Pattern.csproj.GenerateResource.Cache
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - Assignment Reminder - Final\Observer Pattern\bin\Debug\Observer Pattern.exe.config
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer Pattern.exe
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer Pattern.pdb
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - Assignment Reminder - Final\Observer Pattern\bin\Debug\Observer Pattern.exe
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - Assignment Reminder - Final\Observer Pattern\bin\Debug\Observer Pattern.pdb
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer_Pattern.Form1.resources
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer_Pattern.Properties.Resources.resources
+C:\Users\Tal\Desktop\Tori Programs\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer Pattern.csproj.GenerateResource.Cache
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Observer Pattern - Assignment Reminder - Final\Observer Pattern\bin\Debug\Observer Pattern.exe.config
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer Pattern.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer Pattern.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Observer Pattern - Assignment Reminder - Final\Observer Pattern\bin\Debug\Observer Pattern.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Observer Pattern - Assignment Reminder - Final\Observer Pattern\bin\Debug\Observer Pattern.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer Pattern.csprojResolveAssemblyReference.cache
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer_Pattern.Form1.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer_Pattern.Properties.Resources.resources
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Observer Pattern - Assignment Reminder - Final\Observer Pattern\obj\Debug\Observer Pattern.csproj.GenerateResource.Cache
