@@ -1,0 +1,51 @@
+c:\users\tal\documents\visual studio 2015\Projects\Command and Adapter\Command and Adapter\bin\Debug\Command and Adapter.exe.config
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Command and Adapter\Command and Adapter\bin\Debug\Command and Adapter.exe
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Command and Adapter\Command and Adapter\bin\Debug\Command and Adapter.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Command and Adapter\Command and Adapter\obj\Debug\Command and Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Command and Adapter\Command and Adapter\obj\Debug\Command_and_Adapter.Form1.resources
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Command and Adapter\Command and Adapter\obj\Debug\Command_and_Adapter.Properties.Resources.resources
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Command and Adapter\Command and Adapter\obj\Debug\Command and Adapter.csproj.GenerateResource.Cache
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Command and Adapter\Command and Adapter\obj\Debug\Command and Adapter.exe
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\Command and Adapter\Command and Adapter\obj\Debug\Command and Adapter.pdb
+C:\Users\Tal\Desktop\Tori Programs\Command and Adapter needs undo and redo\Command and Adapter\bin\Debug\Command and Adapter.exe.config
+C:\Users\Tal\Desktop\Tori Programs\Command and Adapter needs undo and redo\Command and Adapter\obj\Debug\Command and Adapter.exe
+C:\Users\Tal\Desktop\Tori Programs\Command and Adapter needs undo and redo\Command and Adapter\obj\Debug\Command and Adapter.pdb
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Command and Adapter - RegionColorChanger - Needs to be reworked class outline with example code\Command and Adapter\bin\Debug\Command and Adapter.exe.config
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Command and Adapter - RegionColorChanger - Needs to be reworked class outline with example code\Command and Adapter\obj\Debug\Command and Adapter.exe
+C:\Users\taloh\Documents\Visual Studio 2015\Projects\Command and Adapter - RegionColorChanger - Needs to be reworked class outline with example code\Command and Adapter\obj\Debug\Command and Adapter.pdb
+C:\Users\DLentz\Desktop\CommandAdapter - NEW\Command and Adapter\bin\Debug\Command and Adapter.exe.config
+C:\Users\DLentz\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command and Adapter.exe
+C:\Users\DLentz\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command and Adapter.pdb
+C:\Users\DLentz\Desktop\CommandAdapter - NEW\Command and Adapter\bin\Debug\Command and Adapter.exe
+C:\Users\DLentz\Desktop\CommandAdapter - NEW\Command and Adapter\bin\Debug\Command and Adapter.pdb
+C:\Users\DLentz\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command and Adapter.csprojResolveAssemblyReference.cache
+C:\Users\DLentz\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command_and_Adapter.Form1.resources
+C:\Users\DLentz\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command_and_Adapter.Properties.Resources.resources
+C:\Users\DLentz\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command and Adapter.csproj.GenerateResource.Cache
+C:\Users\Tal\Desktop\CommandAdapter - NEW\Command and Adapter\bin\Debug\Command and Adapter.exe.config
+C:\Users\Tal\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command and Adapter.exe
+C:\Users\Tal\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command and Adapter.pdb
+C:\Users\Tal\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command and Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command_and_Adapter.Form1.resources
+C:\Users\Tal\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command_and_Adapter.Properties.Resources.resources
+C:\Users\Tal\Desktop\CommandAdapter - NEW\Command and Adapter\obj\Debug\Command and Adapter.csproj.GenerateResource.Cache
+C:\Users\Tal\Desktop\CommandAdapter - NEW\Command and Adapter\bin\Debug\Command and Adapter.exe
+C:\Users\Tal\Desktop\CommandAdapter - NEW\Command and Adapter\bin\Debug\Command and Adapter.pdb
+C:\Users\DLentz\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\bin\Debug\Command and Adapter.exe.config
+C:\Users\DLentz\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command and Adapter.exe
+C:\Users\DLentz\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command and Adapter.pdb
+C:\Users\DLentz\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\bin\Debug\Command and Adapter.exe
+C:\Users\DLentz\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\bin\Debug\Command and Adapter.pdb
+C:\Users\DLentz\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command and Adapter.csprojResolveAssemblyReference.cache
+C:\Users\DLentz\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command_and_Adapter.Form1.resources
+C:\Users\DLentz\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command_and_Adapter.Properties.Resources.resources
+C:\Users\DLentz\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command and Adapter.csproj.GenerateResource.Cache
+C:\Users\taloh\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\bin\Debug\Command and Adapter.exe.config
+C:\Users\taloh\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command and Adapter.exe
+C:\Users\taloh\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command and Adapter.pdb
+C:\Users\taloh\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\bin\Debug\Command and Adapter.exe
+C:\Users\taloh\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\bin\Debug\Command and Adapter.pdb
+C:\Users\taloh\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command and Adapter.csprojResolveAssemblyReference.cache
+C:\Users\taloh\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command_and_Adapter.Form1.resources
+C:\Users\taloh\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command_and_Adapter.Properties.Resources.resources
+C:\Users\taloh\Desktop\CommandAdapter - Working - FINAL\Command and Adapter\obj\Debug\Command and Adapter.csproj.GenerateResource.Cache
